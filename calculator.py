@@ -10,7 +10,7 @@ for x in bienvenvenida:
 print()
 print("--------------------------------------------------------")
 time.sleep(0.3)
-print("Créditos: Creadores del programa calculadora: ")
+print("Créditos: Creador del programa calculadora: ")
 time.sleep(0.3)
 nombres="Jorge Cuevas"
 
